@@ -2,7 +2,7 @@
 using namespace std;
 int main() {
 
-   
+    int a,b,*ptr_a,*ptr_b;
     
     cout << "Enter first Integer: "<<endl;
     cin >> a;
