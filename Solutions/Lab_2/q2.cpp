@@ -4,9 +4,7 @@ int main() {
 
     int a,b,*ptr_a,*ptr_b;
     
-    cout << "Enter first Integer: "<<endl;
-    cin >> a;
-    rs
+    
     cout << "Enter Second Integer: "<<endl;
     cin >> b;
     
