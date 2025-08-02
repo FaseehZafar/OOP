@@ -10,7 +10,8 @@ int main() {
     cout << "Enter Second Integer: "<<endl;
     cin >> b;
     
-  
+    ptr_a=&a;
+    ptr_b=&b;
     
     cout << "Value of a: "<<*ptr_a<<endl;
     cout << "Value of b: "<<*ptr_b<<endl;
