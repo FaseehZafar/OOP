@@ -7,7 +7,8 @@ int main() {
     cout << "Enter first Integer: "<<endl;
     cin >> a;
     
-    
+    cout << "Enter Second Integer: "<<endl;
+    cin >> b;
     
     ptr_a=&a;
     ptr_b=&b;
