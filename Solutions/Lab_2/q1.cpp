@@ -14,7 +14,7 @@ int main() {
     ptr_b=&b;
     
     cout << "Value of a: "<<*ptr_a<<endl;
-    cout << "Value of b: "<<*ptr_b<<endl;
+    
     
     cout << "Address of a: "<<ptr_a<<endl;
     cout << "Address of b: "<<ptr_b<<endl;
